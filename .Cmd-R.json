@@ -23,7 +23,7 @@
     "showInTrayMenu": false, 
     "matchCase": false, 
     "filter": {
-        "regex": null, 
+        "regex": "^.(?!erminix).*$", 
         "isRecursive": false
     }, 
     "type": "phrase", 

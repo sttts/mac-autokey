@@ -1,5 +1,5 @@
 {
-    "usageCount": 18, 
+    "usageCount": 32, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "Cmd-V", 
@@ -23,7 +23,7 @@
     "showInTrayMenu": false, 
     "matchCase": false, 
     "filter": {
-        "regex": null, 
+        "regex": "^.(?!erminix).*$", 
         "isRecursive": false
     }, 
     "type": "phrase", 

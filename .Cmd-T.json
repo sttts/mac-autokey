@@ -1,5 +1,5 @@
 {
-    "usageCount": 0, 
+    "usageCount": 2, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "Cmd-T", 
@@ -23,7 +23,7 @@
     "showInTrayMenu": false, 
     "matchCase": false, 
     "filter": {
-        "regex": null, 
+        "regex": "^.(?!erminix).*$", 
         "isRecursive": false
     }, 
     "type": "phrase", 
