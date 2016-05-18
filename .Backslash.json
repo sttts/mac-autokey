@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "4", 
+    "description": "Backslash", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,8 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "\ufe52", 
+        "hotKey": "7", 
         "modifiers": [
+            "<alt>", 
             "<shift>"
         ]
     }, 

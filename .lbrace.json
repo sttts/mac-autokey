@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "3", 
+    "description": "lbrace", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,10 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "7", 
+        "hotKey": "8", 
         "modifiers": [
-            "<alt>", 
-            "<shift>"
+            "<alt>"
         ]
     }, 
     "modes": [

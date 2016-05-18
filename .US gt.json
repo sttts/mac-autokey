@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "6", 
+    "description": "US gt", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,8 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "6", 
+        "hotKey": "\ufe52", 
         "modifiers": [
-            "<alt>", 
             "<shift>"
         ]
     }, 

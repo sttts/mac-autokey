@@ -1,8 +1,8 @@
 {
-    "usageCount": 18, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "Cmd-V", 
+    "description": "rbrace", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "v", 
+        "hotKey": "9", 
         "modifiers": [
-            "<super>"
+            "<alt>"
         ]
     }, 
     "modes": [
