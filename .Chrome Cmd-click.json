@@ -1,8 +1,8 @@
 {
-    "usageCount": 3, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "Caret", 
+    "description": "Chrome Cmd-click", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,21 +12,15 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "6", 
-        "modifiers": [
-            "<alt>", 
-            "<shift>"
-        ]
+        "hotKey": null, 
+        "modifiers": []
     }, 
-    "modes": [
-        3
-    ], 
+    "modes": [], 
     "showInTrayMenu": false, 
-    "matchCase": false, 
     "filter": {
         "regex": null, 
         "isRecursive": false
     }, 
-    "type": "phrase", 
-    "sendMode": "kb"
+    "type": "script", 
+    "store": {}
 }
