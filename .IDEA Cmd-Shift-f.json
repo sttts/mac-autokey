@@ -1,5 +1,5 @@
 {
-    "usageCount": 6, 
+    "usageCount": 10, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "IDEA Cmd-Shift-f", 
@@ -24,7 +24,7 @@
     "showInTrayMenu": false, 
     "matchCase": false, 
     "filter": {
-        "regex": "IDEA", 
+        "regex": null, 
         "isRecursive": false
     }, 
     "type": "phrase", 
