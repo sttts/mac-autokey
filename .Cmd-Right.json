@@ -1,8 +1,8 @@
 {
-    "usageCount": 13, 
+    "usageCount": 11, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "Chrome alt-backspace", 
+    "description": "Cmd-Right", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "<backspace>", 
+        "hotKey": "<right>", 
         "modifiers": [
-            "<alt>"
+            "<ctrl>"
         ]
     }, 
     "modes": [
@@ -23,7 +23,7 @@
     "showInTrayMenu": false, 
     "matchCase": false, 
     "filter": {
-        "regex": "google-chrome.google-chrome", 
+        "regex": null, 
         "isRecursive": false
     }, 
     "type": "phrase", 

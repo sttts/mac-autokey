@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "Chrome alt-left", 
+    "description": "Alt-Cmd-Right", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,10 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "<left>", 
+        "hotKey": "<right>", 
         "modifiers": [
-            "<alt>"
+            "<alt>", 
+            "<ctrl>"
         ]
     }, 
     "modes": [
@@ -23,7 +24,7 @@
     "showInTrayMenu": false, 
     "matchCase": false, 
     "filter": {
-        "regex": "google-chrome.google-chrome", 
+        "regex": null, 
         "isRecursive": false
     }, 
     "type": "phrase", 
