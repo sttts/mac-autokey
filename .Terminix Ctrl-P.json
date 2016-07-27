@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "US lt", 
+    "description": "Terminix Ctrl-P", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,8 +12,10 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "^", 
-        "modifiers": []
+        "hotKey": "p", 
+        "modifiers": [
+            "<super>"
+        ]
     }, 
     "modes": [
         3
@@ -21,7 +23,7 @@
     "showInTrayMenu": false, 
     "matchCase": false, 
     "filter": {
-        "regex": null, 
+        "regex": "terminix.Terminix", 
         "isRecursive": false
     }, 
     "type": "phrase", 
